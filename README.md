@@ -12,3 +12,5 @@ This model uses the diabetes dataset.
 <img src="img/lin_output.png">
 
 #### Logistic Regression
+This model uses the iris dataset.
+<img src="img/log_output.png">
