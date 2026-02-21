@@ -5,6 +5,7 @@
 			- [Linear Regression](#linear-regression)
 			- [Logistic Regression](#logistic-regression)
 			- [Naive Bayes](#naive-bayes)
+			- [Decision Tree](#decision-tree)
 
 ## Example
 ### Supervised Learning
@@ -22,3 +23,5 @@ This model uses the iris.dataset.
 (y_pred != test_y).sum()
 1
 ```
+
+#### Decision Tree
